@@ -1,2 +1,12 @@
 >>
 
+Recipe for pushing changes with git.
+
+1. git init --> initializes project
+
+2. git add "file_name" --> adds file (like presents it to the stage)
+3. git commit -m "message for commit title" ---> commits your changes!
+4. git push origin main ---> pushes to the main ( only do if you are working solo!) otherwise use new branch
+5. changes published hooray! 
+
+
