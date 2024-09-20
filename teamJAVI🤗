@@ -1,0 +1,34 @@
+## Our Recipes
+
+Javier's Recipe
+How to make Brownies:
+
+1. Get Brownie Mix
+2. Get 2 eggs
+3. Get Cooking oil
+4. Water
+
+Preheat over to 350 F
+
+Mix oil and eggs until incorporated 
+SLOWLY add the brownie mix, mixing it completely before adding more
+When all the mix is added and it is evenly mixed, add chocolate chips (if you have)
+
+Get a baking pan and greasse it with butter + flour (?)
+Spread the mix
+Put it in the over for 25 minutes
+Let it cool
+Enjoy ! 🐬🐬🐬🐬🐬🐬🐬
+
+
+Kayleen's Recipe
+Recipe for pushing changes with git.
+
+1. git init --> initializes project
+
+2. git add "file_name" --> adds file (like presents it to the stage)
+3. git commit -m "message for commit title" ---> commits your changes!
+4. git push origin main ---> pushes to the main ( only do if you are working solo!) otherwise use new branch
+5. changes published hooray! 
+
+
